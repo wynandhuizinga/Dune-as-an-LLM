@@ -1,0 +1,3 @@
+This repository is merely a demonstration of what would happen if you transform Frank Herbert's Dune saga into an LLM. The main research question being: How big does a large corpus of text need to be in order to train an LLM to come up with sensible sentences in response. Although the result is mostly producing gibberish, it can be observed that the model is responsive and producing text which can be 'interpretted'. This model is obviously not fine-tuned, and follows a chat-completion approach as opposed to modern gpt's. 
+
+![Demo](https://github.com/wynandhuizinga/Dune-as-an-LLM/blob/main/Demo.JPG)
