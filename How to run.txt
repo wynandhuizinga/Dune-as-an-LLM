@@ -1,0 +1,26 @@
+
+
+Creating conda and virtual environment:
+	conda create --name myenv python=3.10.6
+
+	python -m venv cuda
+
+
+Loading conda and virtual environment:
+	conda activate myenv
+
+	cuda\Scripts\activate
+
+	jupyter notebook (WIP to substitatue bigram with actual python script)
+
+	http://localhost:8888/notebooks/bigram.ipynb
+
+	Open bigram and adjust parameters to load your own dataset. Train for at least 30 minutes.
+
+
+running chatbot: 
+	python chatbot.py
+
+
+credits to:
+	https://youtu.be/UU1WVnMk4E8?t=12584
